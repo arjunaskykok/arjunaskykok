@@ -21,6 +21,9 @@ I'm working as the CEO of Artpedia:
 - on RayWenderlich: https://raywenderlich.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
 
+## Skills
+- [LeetCode](https://leetcode.com/arjunaskykok/)
+
 <!---
 arjunaskykok/arjunaskykok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
