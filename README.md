@@ -21,7 +21,7 @@ I'm working as the CEO of Artpedia:
 - on RayWenderlich: https://raywenderlich.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
 
-## Skills
+## My Achievements
 - [LeetCode](https://leetcode.com/arjunaskykok/)
 
 <!---
