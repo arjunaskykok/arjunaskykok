@@ -17,6 +17,7 @@ I'm working as the CEO of Artpedia:
 - [OverseasIndonesians](https://twitter.com/OverseasIND)
 
 ## My Writings
+- [Hands-on Blockchain for Python Developers](https://www.packtpub.com/product/hands-on-blockchain-for-python-developers/9781788627856)
 - on Baeldung: https://www.baeldung.com/linux/author/arjunaskykok
 - on RayWenderlich: https://raywenderlich.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
