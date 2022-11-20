@@ -6,10 +6,8 @@
 
 ## My Job
 
-I'm working as the CEO of Artpedia:
-- NFT Marketplace: [Artpedia Marketplace](https://artpedia.io)
-- Design tool with AI: [Canvas](https://canvas.artpedia.io)
-- Pairing clothes with celebrities: [Baju dot AI](https://baju.ai)
+I'm working as the CEO of WardrobeAI:
+- [WardrobeAI](https://wardrobeai.com)
 
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
