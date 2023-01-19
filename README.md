@@ -6,7 +6,7 @@
 
 ## My Job
 
-I'm working as the CEO of WardrobeAI:
+I'm working on WardrobeAI:
 - [WardrobeAI](https://wardrobeai.com)
 
 ## My Side Projects
@@ -17,13 +17,12 @@ I'm working as the CEO of WardrobeAI:
 ## My Writings
 - [Hands-on Blockchain for Python Developers](https://www.packtpub.com/product/hands-on-blockchain-for-python-developers/9781788627856)
 - on Baeldung: https://www.baeldung.com/linux/author/arjunaskykok
-- on RayWenderlich: https://raywenderlich.com/u/arjunaskykok
+- on Kodeco (formerly RayWenderlich): https://kodeco.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
 - on Vonage: https://learn.vonage.com/blog/2021/03/23/build-social-media-style-stories-with-android-and-python/
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
+- on Vultr: https://www.vultr.com/docs/deploy-dreambooth-and-stable-diffusion-on-a-vultr-cloud-gpu/
 
-## My Achievements
-- [LeetCode](https://leetcode.com/arjunaskykok/)
 
 <!---
 arjunaskykok/arjunaskykok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
