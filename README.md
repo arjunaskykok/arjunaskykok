@@ -23,6 +23,9 @@ I'm working on WardrobeAI:
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
 - on Vultr: https://www.vultr.com/docs/deploy-dreambooth-and-stable-diffusion-on-a-vultr-cloud-gpu/
 
+## Certificates
+- Self-driving Car Engineer: https://graduation.udacity.com/confirm/DZLSTGVG
+- Robotics Software Engineer: https://graduation.udacity.com/confirm/SKJZCLSS
 
 <!---
 arjunaskykok/arjunaskykok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
