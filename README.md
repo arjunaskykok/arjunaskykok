@@ -6,8 +6,7 @@
 
 ## My Job
 
-I'm working on WardrobeAI:
-- [WardrobeAI](https://wardrobeai.com)
+I'm working as a Quant Software Engineer.
 
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
