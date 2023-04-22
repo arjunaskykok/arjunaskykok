@@ -9,6 +9,7 @@
 I'm working as a Quant Software Engineer.
 
 ## My Side Projects
+- [Wallpapoz](https://wallpapoz.com)
 - [PredictSalary](https://predictsalary.com)
 - [Pembangun](https://pembangun.net)
 - [OverseasIndonesians](https://twitter.com/OverseasIND)
