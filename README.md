@@ -9,10 +9,12 @@
 I'm working as a Quant Software Engineer.
 
 ## My Side Projects
-- [Wallpapoz](https://wallpapoz.com)
 - [PredictSalary](https://predictsalary.com)
 - [Pembangun](https://pembangun.net)
 - [OverseasIndonesians](https://twitter.com/OverseasIND)
+
+## My Fundraising
+- [Exclusive: Former Gojek exec backs new Indonesian NFT marketplace](https://www.techinasia.com/exclusive-gojek-exec-backs-indonesian-nft-marketplace)
 
 ## My Writings
 - [Hands-on Blockchain for Python Developers](https://www.packtpub.com/product/hands-on-blockchain-for-python-developers/9781788627856)
