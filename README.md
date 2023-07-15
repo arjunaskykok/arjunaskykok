@@ -6,7 +6,7 @@
 
 ## My Job
 
-I'm working as a Quant Software Engineer.
+I'm working as a CTO.
 
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
