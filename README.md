@@ -17,7 +17,7 @@ I'm working as a CTO.
 - [Exclusive: Former Gojek exec backs new Indonesian NFT marketplace](https://www.techinasia.com/exclusive-gojek-exec-backs-indonesian-nft-marketplace)
 
 ## My Writings
-- [Hands-on Blockchain for Python Developers](https://www.packtpub.com/product/hands-on-blockchain-for-python-developers/9781788627856)
+- [Hands-on Blockchain for Python Developers, 2nd Edition](https://www.packtpub.com/en-id/product/hands-on-blockchain-for-python-developers-9781805121367)
 - on Baeldung: https://www.baeldung.com/linux/author/arjunaskykok
 - on Kodeco (formerly RayWenderlich): https://kodeco.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
