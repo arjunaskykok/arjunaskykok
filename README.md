@@ -11,7 +11,8 @@ I'm working as a CTO.
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
 - [Pembangun](https://pembangun.net)
-- [OverseasIndonesians](https://twitter.com/OverseasIND)
+- [StartOverseas](https://twitter.com/StartOverseas)
+- [Numina](https://numinamagic.com)
 
 ## My Fundraising
 - [Exclusive: Former Gojek exec backs new Indonesian NFT marketplace](https://www.techinasia.com/exclusive-gojek-exec-backs-indonesian-nft-marketplace)
