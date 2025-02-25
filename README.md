@@ -26,7 +26,7 @@
 - [Artificial Intelligence APIs with Python](https://www.kodeco.com/ai/programs/ai-apis)
 
 ## Certificates
-- Self-driving Car Engineer: https://graduation.udacity.com/confirm/DZLSTGVG
+- Self-driving Car Engineer: https://www.udacity.com/certificate/e/119f9baa-b574-11e7-a372-ff38fcd08178
 - Robotics Software Engineer: https://graduation.udacity.com/confirm/SKJZCLSS
 
 <!---
