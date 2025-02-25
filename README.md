@@ -10,7 +10,6 @@ I'm working as a CTO.
 
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
-- [Pembangun](https://pembangun.net)
 - [StartOverseas](https://twitter.com/StartOverseas)
 - [Numina](https://numinamagic.com)
 
@@ -25,6 +24,10 @@ I'm working as a CTO.
 - on Vonage: https://learn.vonage.com/blog/2021/03/23/build-social-media-style-stories-with-android-and-python/
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
 - on Vultr: https://www.vultr.com/docs/deploy-dreambooth-and-stable-diffusion-on-a-vultr-cloud-gpu/
+
+## Bootcamp Program
+
+- [Artificial Intelligence APIs with Python](https://www.kodeco.com/ai/programs/ai-apis)
 
 ## Certificates
 - Self-driving Car Engineer: https://graduation.udacity.com/confirm/DZLSTGVG
