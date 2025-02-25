@@ -4,10 +4,6 @@
 - 👀 I’m interested in web3 and AI
 - 📫 You can reach me [here](https://twitter.com/arjunaskykok)
 
-## My Job
-
-I'm working as a CTO.
-
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
 - [StartOverseas](https://twitter.com/StartOverseas)
