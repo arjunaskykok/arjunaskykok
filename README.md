@@ -1,7 +1,7 @@
 # About Me
 
 - 👋 Hi, I’m @arjunaskykok
-- 👀 I’m interested in web3 and AI
+- 👀 I’m interested in AI
 - 📫 You can reach me [here](https://twitter.com/arjunaskykok)
 
 ## My Side Projects
