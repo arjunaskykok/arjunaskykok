@@ -8,6 +8,7 @@
 - [PredictSalary](https://predictsalary.com)
 - [StartOverseas](https://twitter.com/StartOverseas)
 - [Numina](https://numinamagic.com)
+- [Neoching](https://neoching.com)
 
 ## My Fundraising
 - [Exclusive: Former Gojek exec backs new Indonesian NFT marketplace](https://www.techinasia.com/exclusive-gojek-exec-backs-indonesian-nft-marketplace)
