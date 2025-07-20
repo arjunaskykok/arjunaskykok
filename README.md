@@ -6,7 +6,6 @@
 
 ## My Side Projects
 - [PredictSalary](https://predictsalary.com)
-- [StartOverseas](https://twitter.com/StartOverseas)
 - [Numina](https://numinamagic.com)
 - [Neoching](https://neoching.com)
 
@@ -18,9 +17,7 @@
 - on Baeldung: https://www.baeldung.com/linux/author/arjunaskykok
 - on Kodeco (formerly RayWenderlich): https://kodeco.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
-- on Vonage: https://learn.vonage.com/blog/2021/03/23/build-social-media-style-stories-with-android-and-python/
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
-- on Vultr: https://www.vultr.com/docs/deploy-dreambooth-and-stable-diffusion-on-a-vultr-cloud-gpu/
 
 ## Bootcamp Program
 
