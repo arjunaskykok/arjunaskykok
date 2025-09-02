@@ -19,6 +19,10 @@
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
 
+## Open source contributions
+- [Hugging Face's transformers](https://github.com/huggingface/transformers/commit/716819b8309324302e00a3488a3c3d6faa427f79)
+- [Vyper](https://github.com/search?q=repo%3Avyperlang%2Fvyper+arjunaskykok&type=commits)
+
 ## Bootcamp Program
 
 - [Artificial Intelligence APIs with Python](https://www.kodeco.com/ai/programs/ai-apis)
