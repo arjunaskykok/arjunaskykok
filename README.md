@@ -18,6 +18,7 @@
 - on Kodeco (formerly RayWenderlich): https://kodeco.com/u/arjunaskykok
 - on LogRocket: https://blog.logrocket.com/author/arjunaskykok/
 - on CSS-Tricks: https://css-tricks.com/php-date-and-time-recipes/
+- [Practical MCP: A Python Developer's Guide](https://leanpub.com/practical-mcp)
 
 ## Open source contributions
 - [Hugging Face's transformers](https://github.com/huggingface/transformers/commit/716819b8309324302e00a3488a3c3d6faa427f79)
